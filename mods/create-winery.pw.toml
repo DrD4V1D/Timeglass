@@ -1,0 +1,13 @@
+name = "Create: Winery"
+filename = "create_winery-2.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zBuk6egG/versions/B3gnGAgP/create_winery-2.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "8ac8f5dac66c74e6493ccdc7fd21d31347523996914cea363c631d18421df730da3f0f7121f85f0ebb8fdd356ca8a2ebb99eef45782b49f8b11c3dfd69d5ac68"
+
+[update]
+[update.modrinth]
+mod-id = "zBuk6egG"
+version = "B3gnGAgP"

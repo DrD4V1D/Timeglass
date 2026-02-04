@@ -1,0 +1,13 @@
+name = "Create:  Chipped"
+filename = "create_chipped-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24cf9a18dcb86947bea077d3d5ddcb1863142ee3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6849159
+project-id = 1321045

@@ -1,0 +1,13 @@
+name = "Create: Sweets & Treats (Reforged)"
+filename = "create_snt-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kR8kFcc6/versions/MKL67GXA/create_snt-1.1.0.jar"
+hash-format = "sha512"
+hash = "7ac5adcb5c5ad1f8ff68ea59b9b14a87d6fcc4fe60d5f3c4ae5056a836e31af844c0819f3c30e09b6088a6a42ebb6da9ddb5dbb67b2147726cd5d24ab6c6907c"
+
+[update]
+[update.modrinth]
+mod-id = "kR8kFcc6"
+version = "MKL67GXA"

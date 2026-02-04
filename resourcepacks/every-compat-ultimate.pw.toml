@@ -1,0 +1,13 @@
+name = "Every Compat Ultimate"
+filename = "EveryCompat-Ultimate-1.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/P3EjruFV/versions/7Y8lBLZR/EveryCompat-Ultimate-1.1.0.zip"
+hash-format = "sha512"
+hash = "a7a6a336bd68bd05cd567d578ca6c1d91a0fa728424ba586200597f4482fde3d2751f7d87162dd686f411e4b915f9361772e21ceb2d959b7a2320486e502a024"
+
+[update]
+[update.modrinth]
+mod-id = "P3EjruFV"
+version = "7Y8lBLZR"
