@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
+metafile = true

@@ -1,1 +1,6 @@
 packwiz.exe
+/.minecraft/
+/run/
+/logs/
+/crash-reports/
+*.log
