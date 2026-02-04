@@ -4,4 +4,6 @@ packwiz.exe
 /logs/
 /crash-reports/
 *.log
-**.mrpack
+
+# Modpack export artifacts
+*.mrpack
