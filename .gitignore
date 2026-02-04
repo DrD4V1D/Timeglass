@@ -4,3 +4,4 @@ packwiz.exe
 /logs/
 /crash-reports/
 *.log
+**.mrpack
