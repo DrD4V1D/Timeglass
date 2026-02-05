@@ -1,13 +1,13 @@
 name = "Create: Connected"
-filename = "create_connected-1.1.12-mc1.20.1-all.jar"
+filename = "create_connected-1.1.7-mc1.20.1-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/aN0bSww5/create_connected-1.1.12-mc1.20.1-all.jar"
+url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/HMzC945H/create_connected-1.1.7-mc1.20.1-all.jar"
 hash-format = "sha512"
-hash = "197488682615350b777c9f803c58a870fab3f775f044a8c1aae44810b0f9a93a5ff05bc54b1d6a5d962d5b6db78dfb5c33c6cf0e2373f261b89834e0dc2cd67a"
+hash = "647418a320bf722c280b452df54e78dc5deb351ac586ffb2fb8a89ae4784771c4bd4ee17c16efc15d8d705e299521aaa6150bb9e3ab6962fe1c23312c87d2328"
 
 [update]
 [update.modrinth]
 mod-id = "Vg5TIO6d"
-version = "aN0bSww5"
+version = "HMzC945H"
