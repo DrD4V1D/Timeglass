@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "eceb23918301e3ded525c3623e32a9740ffa0ec8a41210e0e22f7c022d64cc2c"
+hash = "ce07a95d8a8479e4d766a18f847ba7e03f295bc852176d23efd772dad4b2f293"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
-hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
+hash = "e84e0a242227bb9c314e32e4b0cff900f3e052f4cdf65276edb8621dbbc83608"
 metafile = true
 
 [[files]]
@@ -498,6 +498,16 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "7060a76920751b584d6a5c858d1e484ed1445fe0b1d13a11da237f6e15e73240"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
 metafile = true
 
 [[files]]
@@ -727,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark.pw.toml"
-hash = "20b656798b6afb8ed1133cc7cd7ac5c61a8f73e49f321544e4ac554620167fb1"
+hash = "ed1802c6a283e81145bf12d85377fd09a24df5fe763a557076f021cbf5ed0da2"
 metafile = true
 
 [[files]]
