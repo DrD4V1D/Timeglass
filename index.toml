@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "c01e6f68aeec0f8ac8299d2fac9a624075dd759e9ccf7c011729c24019422f92"
+hash = "84d086c1a9524c1f16f5f68e2dc5e044318d79c7673fd63c34e59a3b35a7f542"
 metafile = true
 
 [[files]]
@@ -732,22 +732,22 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
+hash = "d9e05e164bb61c2bcecc58702c46e59c2721928a3b355050d1e84736d74fe6fc"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "41aa01e9d0507d3131eb5fd2f6d8f2b7c54237e30a94e2a3bf6f52915cb8a688"
+hash = "4ce517d9069d08501f48e928692dc2f4617980683a2c4521f22c1ec538f34dcc"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "05f825a655bc94af6ab592d13c396b60c818cfc65ff2528e206e7a40a180e210"
+hash = "3ca605850961bbfb53cd2737349acb6cff01e452cce9f32c2da6c0593d89eda7"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "60511ad5628ed8e45a552de171c3330bdcdbd5f86f7047e26b505b7a8c824a47"
+hash = "49e2bdc9e40c50894dff3013463f5236e7d40c8df3db6ece0a81c00f7c34de48"
 metafile = true
 
 [[files]]
