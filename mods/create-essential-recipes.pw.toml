@@ -1,0 +1,13 @@
+name = "Create: Essential recipes"
+filename = "create-essential-recipes-1.20.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PdKAm3tu/versions/HHXZTYuh/create-essential-recipes-1.20.1-4.0.0.jar"
+hash-format = "sha512"
+hash = "72f258751ad44f422c896fb0b3d11d53a148fd4d962a93a250460bb9c8f79b1565b8d60ed7dbae12966914d466913abd63cf5c1e55ee52365bbb31ab0442368c"
+
+[update]
+[update.modrinth]
+mod-id = "PdKAm3tu"
+version = "HHXZTYuh"

@@ -1,0 +1,13 @@
+name = "Create: Copper Splashing"
+filename = "Create_Copper_Splashing_v2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2da9c94e5b6048efbe5638b34598e9f1f8d7e7bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6536354
+project-id = 1266798

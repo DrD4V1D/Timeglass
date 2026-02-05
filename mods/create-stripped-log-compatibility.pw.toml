@@ -1,0 +1,13 @@
+name = "Create: Stripped Log Compatibility"
+filename = "Create_Stripped_Log_Compatibility_1.20.1_v1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bad09368590a45b9e9659f82a372e477aade2913"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6656254
+project-id = 1287675

@@ -71,6 +71,11 @@ hash = "126db1f1ec01bbc4cf3393e087363e2fdbfe4a3face897ed27985b14a1a519a9"
 metafile = true
 
 [[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "1321e5c33d7c7b28538ff048ff2e8e47e56a2af1edf21da9953c080383eb5ab2"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
+metafile = true
+
+[[files]]
+file = "mods/chalk.pw.toml"
+hash = "f928175ba3f7fe5499a532622dd7dd85c2b6aeef84a2e50f7eb88c5d2cb8e563"
 metafile = true
 
 [[files]]
@@ -186,6 +196,11 @@ hash = "84d086c1a9524c1f16f5f68e2dc5e044318d79c7673fd63c34e59a3b35a7f542"
 metafile = true
 
 [[files]]
+file = "mods/create-caverns-and-chasms-silver-compatibility.pw.toml"
+hash = "0c033a08fb93edbaa1ca5926e13400326931754b82d097ec2ee0a1e02aa3b990"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "0b69f772db857977d0e70bad04d4a8112f0963074ca07258efb44d2d3e5f4578"
 metafile = true
@@ -206,13 +221,28 @@ hash = "4852a9af0dd34136c85a20a9729b554bbb8afbf81f8bfdbb52b8a8cae898b1e6"
 metafile = true
 
 [[files]]
+file = "mods/create-copper-splashing.pw.toml"
+hash = "6830c205ec74edbe7621f73e6e88bbd3f882a7217e4a33c52053e3588b997908"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
 metafile = true
 
 [[files]]
+file = "mods/create-encased.pw.toml"
+hash = "eceb23918301e3ded525c3623e32a9740ffa0ec8a41210e0e22f7c022d64cc2c"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "c670ae9055f10dafb61fe340583c361f4c41ed45671c9440bae1f0696b47252a"
+metafile = true
+
+[[files]]
+file = "mods/create-essential-recipes.pw.toml"
+hash = "b517c3e2bbab6d30c615eaf4fb4da396af15ff6f7c7295d734a911db811416ff"
 metafile = true
 
 [[files]]
@@ -238,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "ff88efb77ae8899248a513bbedc17ceace77a69d789e70b47bde629761d90419"
+metafile = true
+
+[[files]]
+file = "mods/create-gourmet.pw.toml"
+hash = "ad57d914a7841eb2334b1e3defe90653b9c0494605ac56e1cb7a86c98f9f183c"
 metafile = true
 
 [[files]]
@@ -276,6 +311,16 @@ hash = "e9b2b7441fea8ff18a75a36d948daaeaeecdc85a938b6ff2c8212e12de13a329"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
+metafile = true
+
+[[files]]
+file = "mods/create-questing.pw.toml"
+hash = "881cce0632e1e2344dca264bc7d529e8a0fdae399cfa2973079df67d98d7c1c8"
+metafile = true
+
+[[files]]
 file = "mods/create-recycling.pw.toml"
 hash = "bdf77b87f521c9617f772e39f72bb90482d635ee457341526fbb76abbb175789"
 metafile = true
@@ -291,6 +336,11 @@ hash = "1e2f20e482537a35dcf6be7814984f2ee75ed37f1f1861424e9c936727445c41"
 metafile = true
 
 [[files]]
+file = "mods/create-stripped-log-compatibility.pw.toml"
+hash = "3d3bdfbf4655cb0f20e1047f2b2ede41e9195b1e3bc78ddf962f8215ed9eae67"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "8d568223f61b027a5db4622d9d15dd8d00ccefe99e1cdcb6b62c0f0fae5c6f27"
 metafile = true
@@ -301,6 +351,11 @@ hash = "387b75010a7dbcb20e21720d6daa8736d6785534d81cb9ce5c7a28ec04e2636c"
 metafile = true
 
 [[files]]
+file = "mods/create-totem-factory.pw.toml"
+hash = "3618ec68b4cbee7b0a11173875cc9fb242838a8b2eae0ee6f5d7efd9bd410e14"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "de2de998a20ace7b50a6aadc4984343a81343096fe2acec92fb9326be40bb6c5"
 metafile = true
@@ -308,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/create-utilities.pw.toml"
 hash = "448ef7a4a3d83079e682a55d10e41f8ae5df430043b60dd7061d3268e72d8b35"
+metafile = true
+
+[[files]]
+file = "mods/create-waystones-recipes.pw.toml"
+hash = "a6eef0e06f73c29b012b85d69f696b974404ddb3b32efaa60de509a802f411b4"
 metafile = true
 
 [[files]]
@@ -351,6 +411,11 @@ hash = "c79e3a922498c4dbbecfa90c81534faf102ca9285bea9f10aef43b5994780739"
 metafile = true
 
 [[files]]
+file = "mods/displaycase.pw.toml"
+hash = "dc32f38cc1346535bb8709e9935007e8a09b56385c6cb8d1cba2fbffa7810a39"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "e0d378e3a1c413c67634413187f138838e198df51d3481d77216747bd6d9d2da"
 metafile = true
@@ -358,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-village.pw.toml"
+hash = "8f6d01969bfabefba7240fa5f89c610b4000cf43c6095cef9b82b38fb1bf2281"
 metafile = true
 
 [[files]]
@@ -388,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "dde582606c9a0d392457f053abc1b81ba6851952a88ef8d0e208bdfb9b419f29"
+metafile = true
+
+[[files]]
+file = "mods/extra-create-recipe.pw.toml"
+hash = "523cdb933577e429b6c76f74ca1b9b1c91d6790070400855d7072c50506cc9bb"
 metafile = true
 
 [[files]]
@@ -606,6 +681,11 @@ hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "1802dcd780c6deb02fb0d9251474f221077c7c80b8d673585ab59a93f4fe2abb"
+metafile = true
+
+[[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
 hash = "d8bade3bf5ab82d9b3f185bff6c5630cfa4319f331c12d0b6ee226d65eb8b345"
 metafile = true
@@ -631,8 +711,28 @@ hash = "5b97d8644a71fb70757b616a1a7c8ab0245fc9a46f7928bf59f428263eb08c6e"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "08d4de41ece4f7ae64bb003e8ecbab1f0d5bde8ef611bad63598d2ee11faa8a2"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
+metafile = true
+
+[[files]]
+file = "mods/personality.pw.toml"
+hash = "e6bb4fed1cbfd16fc6c08655f39c3b1098010203dfc893b59dbc63306ad65996"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "20b656798b6afb8ed1133cc7cd7ac5c61a8f73e49f321544e4ac554620167fb1"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "ee7905fd6574b870ba30073402da121d40ee4ea3b90967480605f2d38d7a1dc6"
 metafile = true
 
 [[files]]
@@ -683,6 +783,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "eec149bebb07dd47cbe131a73dfc6f118539b9e70dc7d7026dccf5bc867224e8"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored-expansion.pw.toml"
+hash = "cbd0fb9c784c0b72b7fc9d811566b7cb5330465fc7043197616249ad3f2f3a5e"
 metafile = true
 
 [[files]]

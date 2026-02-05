@@ -1,0 +1,13 @@
+name = "Create: Totem Factory"
+filename = "TotemFactory-1.1.0+mc1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ae2lDuIP/versions/usqucgFx/TotemFactory-1.1.0%2Bmc1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "a627768fdc54de3b8d22b9706935682f1e8a95e8398909780492c5fb526da0ec8672b48a0581848c7362d5d15532bdf55f930e7009ac96207e6c5e4c91e571cd"
+
+[update]
+[update.modrinth]
+mod-id = "ae2lDuIP"
+version = "usqucgFx"
