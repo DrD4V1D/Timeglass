@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-misc-and-things.pw.toml"
-hash = "571318eaced14252b348cbaef06a9da3f0f9aa55c05d19ac72bad34393e1c6bd"
+hash = "b017d21c9632149ba70702bfd9d39320b9a2b3715236f3e9e603e3617eacddcb"
 metafile = true
 
 [[files]]
