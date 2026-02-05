@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/oculus.properties"
+hash = "17d3e58c642d73ec957a88a3c6d8a357c0f30c45b7a2a6dffa689ac8619ce5c7"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "26ebcc24106ded2bec288547aba566a6ca92fd685c23d1a6221765f6f3f3e5c9"
 metafile = true
@@ -1032,5 +1036,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
+hash = "91a77a3f031bdf1ac4de9d1be6925704e85dfd8895bad7b717fc2ec1d50d9114"
 metafile = true
