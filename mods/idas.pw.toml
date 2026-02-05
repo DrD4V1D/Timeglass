@@ -1,13 +1,13 @@
-name = " Integrated Dungeons and Structures"
-filename = "idas_forge-1.10.3+1.20.1.jar"
+name = "Integrated Dungeons and Structures"
+filename = "idas_forge-1.12.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z8OZShAU/versions/5BjGiw0X/idas_forge-1.10.3%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "52bf63acea7cc87101d879f74584b02d704bc724991ddac066244e6de7735141136ab3e70858224fd67f03ef2bd93cf54dd677ffc9f60374a845119c13f082e1"
+hash-format = "sha1"
+hash = "7faf6db8ee20db124a4aeb13d96c89f38007161a"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Z8OZShAU"
-version = "5BjGiw0X"
+[update.curseforge]
+file-id = 7046799
+project-id = 605375
