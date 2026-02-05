@@ -1,0 +1,13 @@
+name = "Create: Wrapped"
+filename = "create_wrapped-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/93UfVKfq/versions/j2DFZe8h/create_wrapped-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "afcb5e095d1210f8105e6f660085c5de9ae90c323ed8048942e4dafe31acda539ecdbfabd840a319c9ab5ed7f1bfffab0b620b5e61a2e6acbc0ab3a1a0a11159"
+
+[update]
+[update.modrinth]
+mod-id = "93UfVKfq"
+version = "j2DFZe8h"

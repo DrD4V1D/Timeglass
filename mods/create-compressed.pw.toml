@@ -1,0 +1,13 @@
+name = "Create Compressed"
+filename = "create_compressed-2.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sy4Box1J/versions/uqgUmFCg/create_compressed-2.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "d04ea1adff0a003031f35289d157a09b735ad408225210217e18adcd99b502dd44b9795017a2645f2c93afc6bc2d800853bab984df0e41f323eb83af1323e448"
+
+[update]
+[update.modrinth]
+mod-id = "Sy4Box1J"
+version = "uqgUmFCg"
