@@ -196,11 +196,6 @@ hash = "c8f77b841f628386aabb46e087b43ebf87b1bd70626eaaae194243851ece9dab"
 metafile = true
 
 [[files]]
-file = "mods/create-compact-exp.pw.toml"
-hash = "e4fd1ae025b0a22248ff23df1cbeaf0c433d113bb95e2e16a509ecdc9c55c427"
-metafile = true
-
-[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "8845c6e549e63cef58e420a081b87e1db4230ea02efc835c74b8dab37e183148"
 metafile = true
