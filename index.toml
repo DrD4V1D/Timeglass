@@ -81,6 +81,11 @@ hash = "dd3e909b4a5c69bf083e71beb203ec33b59ba9121280382bd7cd34dbbab45ee8"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
+metafile = true
+
+[[files]]
 file = "mods/caverns-and-chasms.pw.toml"
 hash = "77eb951aea38d711bb8bddd89b66b65a2ce7423d93525843a409b57e03f02fa1"
 metafile = true
@@ -396,6 +401,11 @@ hash = "675609a9fb0ed19788e460191f2fba6279e56e63d702c3d506e6e1a1c0c9ffb0"
 metafile = true
 
 [[files]]
+file = "mods/incubation.pw.toml"
+hash = "5c190b1a62a132464e35a534ec9e214d3c1ee94ea4169e93237ff5492b7fad03"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "73f0fb77d1827b8571a4a17f39920b813c356fe2c8647ae1195de50792e5bc7c"
 metafile = true
@@ -686,6 +696,11 @@ hash = "909482378bf0ed15645bcbba896daf9e83b7ef4e100bc44d6d3a34090f13578f"
 metafile = true
 
 [[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "873f24b47799ee61989b4d381e4cfab62c2735d2e3b6c940d18747f8ef1645ca"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "50dfd8547f93d1bc8f31e1740f94e24aadf661cb2948587ac16a41404b10effd"
 metafile = true
@@ -708,6 +723,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "c35112cced2eec8e5782c5c4327ae31bce16cc1356c75e52000053e890e0f0c1"
 metafile = true
 
 [[files]]
