@@ -366,11 +366,6 @@ hash = "881cce0632e1e2344dca264bc7d529e8a0fdae399cfa2973079df67d98d7c1c8"
 metafile = true
 
 [[files]]
-file = "mods/create-recycle-everything.pw.toml"
-hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
-metafile = true
-
-[[files]]
 file = "mods/create-recycling.pw.toml"
 hash = "bdf77b87f521c9617f772e39f72bb90482d635ee457341526fbb76abbb175789"
 metafile = true
