@@ -1029,3 +1029,8 @@ metafile = true
 file = "resourcepacks/every-compat-ultimate.pw.toml"
 hash = "b091407bb6850c79fb9046afbea0235e930ce9896e7ea43f7de20e1b325736e0"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
+metafile = true
