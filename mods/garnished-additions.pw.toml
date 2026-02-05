@@ -1,0 +1,13 @@
+name = "Create: Garnished Additions"
+filename = "GarnishedAdditions-beta-0.8.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sNUaI7Ge/versions/tufH1ics/GarnishedAdditions-beta-0.8.0-forge.jar"
+hash-format = "sha512"
+hash = "431b77f1e1e50479075518ae00a9ebf5fa3027b71aa747e8a9a07af4cdc3a7f7098c88e63a5fd033b4da65afc2b423b334ff049231d01ca820ae1ed053c7f6e6"
+
+[update]
+[update.modrinth]
+mod-id = "sNUaI7Ge"
+version = "tufH1ics"

@@ -1,0 +1,13 @@
+name = "Garnished Botany Pots"
+filename = "garnished-botany-pots-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZbtYAhun/versions/IpPRKnNO/garnished-botany-pots-2.0.0.jar"
+hash-format = "sha512"
+hash = "97bdda4b68607d7c062473e094854c0c1c2394949f192fc416b0766fdc84f81cbae98743ead3ca0d15df44e687e55dc7a240080528a7b17a26fb1b0484a75db5"
+
+[update]
+[update.modrinth]
+mod-id = "ZbtYAhun"
+version = "IpPRKnNO"
