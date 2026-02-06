@@ -6,7 +6,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "client-overrides/update-mods.bat"
-hash = "469f920b834ba47f1b916f8c0ad5b451cfd3286d40960627a8a2d1a5b1f1094a"
+hash = "6cb821f97f8d33eb3aa45055fbe5fb63e15722aad51d483fd48eafcc34516737"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
