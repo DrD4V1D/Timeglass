@@ -800,11 +800,6 @@ hash = "311e6ff7804f35deac9b3bd48bba8708590f1d8b6648048e7a021b4c5583d3fc"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "204d6d88b0ea0977b1b878ebf7d52c236aec5c603f115f80af3710283d058f97"
 metafile = true
