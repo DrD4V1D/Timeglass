@@ -204,6 +204,11 @@ hash = "c4624bc1de86bbe9739fc2e9d4a580dd52c1b7e1ac23dee8c01344307cc2cb57"
 metafile = true
 
 [[files]]
+file = "mods/controllermod.pw.toml"
+hash = "4b694863928a388e1d730f1d03e1da3ca05e1fb0b5bea40ed071a4eb101c957d"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
 metafile = true
@@ -669,6 +674,11 @@ hash = "7ca55cd661721ca944979439aac5160009e07ce2568fbf8aee53e019f3e55fba"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "e87e55d35c6a335f35329b1356c8c40589f6b955b4933614f03d6c8b747f1476"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "0f69ae82b48bdd8f1a7e320ca5c2156c54d4c140357dac31c77519345bdaca2c"
 metafile = true
@@ -706,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "75199fa3b762c5aa781e3cb2aab7779d19128b2a1c5b15798d5e613df8d16573"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
@@ -766,6 +781,11 @@ metafile = true
 [[files]]
 file = "mods/mopeds.pw.toml"
 hash = "2f406a5001889805b137574244ca05274d63ef8875891f9eb76c160d7569bebb"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
 
 [[files]]
@@ -1016,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "892dd095d1ae9aca8e2ef775fddf28677cd7cfbb6407d52bbbd8cc4a15286bb8"
+metafile = true
+
+[[files]]
+file = "mods/unionlib.pw.toml"
+hash = "094859ffd2d175d811fb0c6ef3dcf1ae2e265c4751298d012fcdebe84a5d296e"
 metafile = true
 
 [[files]]
