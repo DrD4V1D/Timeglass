@@ -10,6 +10,11 @@ hash = "26ebcc24106ded2bec288547aba566a6ca92fd685c23d1a6221765f6f3f3e5c9"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
+metafile = true
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "729e392a067b7682bf0bb1238e659755074e68ea8ea6c8f263d10c193966022c"
 metafile = true
@@ -50,6 +55,16 @@ hash = "90b4a61d7ee6099dc34cf85f099299293401b87fc8f3ca07ed59262c1c63c5a5"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "c281ef574be46e4df3f7ed04b0a4b5f6d1b2a836b7d1d94c4a30be9c85d3adcb"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
@@ -82,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "1321e5c33d7c7b28538ff048ff2e8e47e56a2af1edf21da9953c080383eb5ab2"
+metafile = true
+
+[[files]]
+file = "mods/blue-skies.pw.toml"
+hash = "e0b611005c8d2142ca889e850c9f1450f45b1d30086aa8743579dde6ab1bd9af"
 metafile = true
 
 [[files]]
@@ -725,6 +745,11 @@ hash = "eb6a1c1455632c6ea1ab12259d7082a19400be018eae95e44150a9f8fed330eb"
 metafile = true
 
 [[files]]
+file = "mods/mekanism.pw.toml"
+hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
 metafile = true
@@ -790,6 +815,11 @@ hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
+metafile = true
+
+[[files]]
 file = "mods/personality.pw.toml"
 hash = "e6bb4fed1cbfd16fc6c08655f39c3b1098010203dfc893b59dbc63306ad65996"
 metafile = true
@@ -802,6 +832,11 @@ metafile = true
 [[files]]
 file = "mods/petrols-parts.pw.toml"
 hash = "ee7905fd6574b870ba30073402da121d40ee4ea3b90967480605f2d38d7a1dc6"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
@@ -865,6 +900,11 @@ hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
@@ -925,6 +965,11 @@ hash = "8f907c02b348e25358cf2bca42e9105b9b6103f670bf36432da6752e2c8806db"
 metafile = true
 
 [[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
@@ -942,6 +987,16 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "60b26d8a45735194cff94abb074ee218012f3592017b565d7dc3a40889c6708d"
 metafile = true
 
 [[files]]
