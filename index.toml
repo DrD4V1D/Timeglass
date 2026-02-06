@@ -320,11 +320,6 @@ hash = "88aca7f5341cba8dcb829fc5dab2c34a90a629fde5e533a66fd9ee68ad463d02"
 metafile = true
 
 [[files]]
-file = "mods/create-garnished.pw.toml"
-hash = "1a2b623d7e15015bc97f681f787fa0b39c9f876042c6475c8a16ae2409957abe"
-metafile = true
-
-[[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "ff88efb77ae8899248a513bbedc17ceace77a69d789e70b47bde629761d90419"
 metafile = true
@@ -600,13 +595,13 @@ hash = "e4bf02e4f4d64894c96ef07b68762f90c138bb202665bc6b377e000c715f2efd"
 metafile = true
 
 [[files]]
-file = "mods/garnished-additions.pw.toml"
-hash = "b8fb0edcc02e8d2d6a412f6f416e623acf78d9be4fac348b342cbca98451773b"
+file = "mods/garnished-botany-pots.pw.toml"
+hash = "842b5988c1da0831006f541fd1f4ac160e8ff1266970dcd701c02d4c225269b8"
 metafile = true
 
 [[files]]
-file = "mods/garnished-botany-pots.pw.toml"
-hash = "842b5988c1da0831006f541fd1f4ac160e8ff1266970dcd701c02d4c225269b8"
+file = "mods/garnished.pw.toml"
+hash = "73702d36cf62bbd18dbfe60ef402a32fedc7600a3e4f4549109f406f721ae166"
 metafile = true
 
 [[files]]
