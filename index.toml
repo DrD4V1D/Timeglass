@@ -124,6 +124,11 @@ hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
 metafile = true
 
 [[files]]
+file = "mods/border-overhaul.pw.toml"
+hash = "c920123f5d4b29b3cf65abdcacad287ff639be35747fd03cf2d899a334cfe654"
+metafile = true
+
+[[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "1377363f7ecd253dd2eba4a9cc1379663285b60250abb98e0be3b96dabc3fcad"
 metafile = true
@@ -176,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/christmas-delight-(farmers-delight-addon).pw.toml"
 hash = "9267a05025c0a9d4f8c3a556ea0151dfe6d117f666ab7c84f7c7e3dbb09aca07"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
 
 [[files]]

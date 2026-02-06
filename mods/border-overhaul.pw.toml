@@ -1,0 +1,13 @@
+name = "Border Overhaul"
+filename = "borderoverhaul-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uk929lKc/versions/CRlfKplj/borderoverhaul-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "6d770f0728713e00cd189971e6e6cb313ba05a2f5084732dd2826a8186ec46373bc403edc0ddac632f68449ddcdd009ff234d0b4079ab28a43e474c2effe95a4"
+
+[update]
+[update.modrinth]
+mod-id = "uk929lKc"
+version = "CRlfKplj"
