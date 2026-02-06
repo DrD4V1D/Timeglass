@@ -174,6 +174,11 @@ hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
 
 [[files]]
+file = "mods/christmas-delight-(farmers-delight-addon).pw.toml"
+hash = "9267a05025c0a9d4f8c3a556ea0151dfe6d117f666ab7c84f7c7e3dbb09aca07"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
 metafile = true

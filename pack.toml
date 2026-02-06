@@ -1,12 +1,12 @@
 name = "Timeglass"
 author = "David Roush"
-version = "0.3.0"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9d6f8fc8afafbc78258e77da88b1595d8e725b8bc318b7b725519f44bdae7718"
+hash = "7f9b91be0129d08adbb5394b6ad4bb3270f5fd1c32881b298ccaf883fefedc72"
 
 [versions]
 forge = "47.4.2"

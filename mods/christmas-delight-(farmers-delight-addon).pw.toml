@@ -1,0 +1,13 @@
+name = "Christmas Delight (Farmers Delight Addon)"
+filename = "farmers_delight_christmas_edition-V1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MzcGXq2y/versions/R24JN3LP/farmers_delight_christmas_edition-V1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "4d849306ee8d1d194bbf86de6d9b2e17c6bcc9b9c516bf2d06fc067157152bd9192bb8fc339c443d2d3bc3046b73d97e71b35581bcc267c3a75cdd8cc66ebea9"
+
+[update]
+[update.modrinth]
+mod-id = "MzcGXq2y"
+version = "R24JN3LP"
