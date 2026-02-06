@@ -755,6 +755,11 @@ hash = "eb6a1c1455632c6ea1ab12259d7082a19400be018eae95e44150a9f8fed330eb"
 metafile = true
 
 [[files]]
+file = "mods/mekalus-oculus-fork-with-fixed-mekanism-mekasuit.pw.toml"
+hash = "58c66715a20423f327e23754c6542c0e4c3f50a485252df4e7e1be820487688c"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
 metafile = true
