@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "client-overrides/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "client-overrides/update-mods.bat"
+hash = "469f920b834ba47f1b916f8c0ad5b451cfd3286d40960627a8a2d1a5b1f1094a"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "26ebcc24106ded2bec288547aba566a6ca92fd685c23d1a6221765f6f3f3e5c9"
 metafile = true
