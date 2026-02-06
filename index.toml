@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekalus-oculus-fork-with-fixed-mekanism-mekasuit.pw.toml"
-hash = "58c66715a20423f327e23754c6542c0e4c3f50a485252df4e7e1be820487688c"
+hash = "fa0feb7b7870d9dbbe7bf084754c3315378306e7be2b287287ca58b0f6dc7f90"
 metafile = true
 
 [[files]]
