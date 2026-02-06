@@ -1,13 +1,13 @@
 name = "BlueMap"
-filename = "bluemap-5.12-mc1.20-6-forge.jar"
+filename = "BlueMap-5.3-forge-1.20.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/swbUV1cr/versions/kC7iYqja/bluemap-5.12-mc1.20-6-forge.jar"
+url = "https://cdn.modrinth.com/data/swbUV1cr/versions/aHbq9KFB/BlueMap-5.3-forge-1.20.jar"
 hash-format = "sha512"
-hash = "e3c704792e6fc0243ecc3c7e68aab409b8475ed97b77b1cffa7feaf513e92df2b77af139e3c9a14a24eee85009bd855c7e0918d9d1d90024a98b419961054cce"
+hash = "3885e5085d6475c5d5dbc50d51ed207f5cebbaa1ad4d6eeec02ba56c317ae7b0080394ff0732334fd8cdf4d2a6b94506ecb700a4b385fdaf3728f024bf42c14e"
 
 [update]
 [update.modrinth]
 mod-id = "swbUV1cr"
-version = "kC7iYqja"
+version = "aHbq9KFB"
