@@ -550,11 +550,6 @@ hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "2023ed56ff0d7566f898a1be5e542bcde94fbc252264dface9cd9dacc0883c38"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
 metafile = true
@@ -1032,6 +1027,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "dd9c8d955749815ea13a1e500711926fd631bab441ceda04994ac84d1cdd52a6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5563aa61494747ee022b5c066bb239ee7c1eb4f00097c8b67cbc831c01dd9299"
 metafile = true
 
 [[files]]
