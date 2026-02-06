@@ -184,6 +184,11 @@ hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
 metafile = true
 
 [[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -474,6 +479,21 @@ hash = "e6d1f36e9e0193fe410d136e0cda8a7f6dbbc809c0644f06a601bddf5b38a395"
 metafile = true
 
 [[files]]
+file = "mods/croptopia-additions.pw.toml"
+hash = "81f5856821ad7bc11213bf46a32079f6d0f36bc3730240703f67b32600b8c789"
+metafile = true
+
+[[files]]
+file = "mods/croptopia-delight.pw.toml"
+hash = "de745a54c2dff9b7698a22e047d47deba0056ec235519f0c69586ec77100648a"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
+metafile = true
+
+[[files]]
 file = "mods/cuisine-delight.pw.toml"
 hash = "602d7471d30f380a6a2fd63e7500edb661528f59148843eb0cc89241f812f588"
 metafile = true
@@ -531,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/environmental.pw.toml"
 hash = "1ff23d210c947a09096700a77bc33020610fcab02ad81a6aa50b0b638f5f873d"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
 metafile = true
 
 [[files]]
@@ -679,8 +704,8 @@ hash = "7ca55cd661721ca944979439aac5160009e07ce2568fbf8aee53e019f3e55fba"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "e87e55d35c6a335f35329b1356c8c40589f6b955b4933614f03d6c8b747f1476"
+file = "mods/inventory-essentials.pw.toml"
+hash = "a3ad7e869e1b5bbb07a1972325a70de2b8a1dac9e6919fd3cc1c037e77fcf4c0"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Croptopia Additions"
+filename = "CroptopiaAdditions-1.20.1-FORGE-2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y3U444Zp/versions/K1ZjqBeD/CroptopiaAdditions-1.20.1-FORGE-2.3.jar"
+hash-format = "sha512"
+hash = "eff96b6c46224d851adaeb6a662441b230bc64e6cb461980d1a6e93119e8db318fb6244106885d03e370da8f0e5abd947c67d9dc33aebddcf160dedc3842de0b"
+
+[update]
+[update.modrinth]
+mod-id = "y3U444Zp"
+version = "K1ZjqBeD"
