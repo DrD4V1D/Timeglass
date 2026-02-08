@@ -19,6 +19,11 @@ hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
 metafile = true
 
 [[files]]
+file = "mods/additional-attributes.pw.toml"
+hash = "52f10a5b1eefd53108e529208eef6d9a721ea5bc611e2da6db863cea4ea01d00"
+metafile = true
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "729e392a067b7682bf0bb1238e659755074e68ea8ea6c8f263d10c193966022c"
 metafile = true
