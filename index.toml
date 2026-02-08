@@ -59,6 +59,11 @@ hash = "90b4a61d7ee6099dc34cf85f099299293401b87fc8f3ca07ed59262c1c63c5a5"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis-ascended.pw.toml"
+hash = "da0e7e1f4237e3ea501dab2b090006e42cd76f129be7f8d5206a8f7380dc1098"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "c281ef574be46e4df3f7ed04b0a4b5f6d1b2a836b7d1d94c4a30be9c85d3adcb"
 metafile = true
