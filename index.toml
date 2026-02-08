@@ -239,11 +239,6 @@ hash = "c4624bc1de86bbe9739fc2e9d4a580dd52c1b7e1ac23dee8c01344307cc2cb57"
 metafile = true
 
 [[files]]
-file = "mods/controllermod.pw.toml"
-hash = "4b694863928a388e1d730f1d03e1da3ca05e1fb0b5bea40ed071a4eb101c957d"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
 metafile = true
@@ -1110,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/unionlib.pw.toml"
-hash = "094859ffd2d175d811fb0c6ef3dcf1ae2e265c4751298d012fcdebe84a5d296e"
+hash = "cec590393b1036eacff46112f440b464ee1feb083e1e160ee910607a85a32b45"
 metafile = true
 
 [[files]]
