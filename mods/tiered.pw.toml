@@ -1,0 +1,13 @@
+name = "Reforged (formerly Tiered)"
+filename = "Reforged-1.20.1-1.0.12-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQL9oTmq/versions/qx3hGOLO/Reforged-1.20.1-1.0.12-Forge.jar"
+hash-format = "sha512"
+hash = "91f9da97dbde4987536b7a94fd02c3079ba5991229251a3265ab8dee4ae8a3d480d17065a16c7222fcc1f85b51d1e954825c988193e9705cf0c434f81c592797"
+
+[update]
+[update.modrinth]
+mod-id = "fQL9oTmq"
+version = "qx3hGOLO"

@@ -1,0 +1,13 @@
+name = "Simply Swords: Cataclysm"
+filename = "simplycataclysm-1.0.1+1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iAWmQpER/versions/tr4pdqMD/simplycataclysm-1.0.1%2B1.20.1%2Bforge.jar"
+hash-format = "sha512"
+hash = "75611f9e33a2c50c02c5fd943ebc6aedc58f6419132b6d4304a0a888419e5f5eaf3ee293169ebce1527940b3ef95c628d2cd3193112fa0ed6c76760e5e60a491"
+
+[update]
+[update.modrinth]
+mod-id = "iAWmQpER"
+version = "tr4pdqMD"

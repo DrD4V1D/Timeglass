@@ -994,6 +994,16 @@ hash = "f9834af674abc824248bedb2e490ab426cff92b036cb20413cbbacd67ec6f5e3"
 metafile = true
 
 [[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "e7b4f5d39d49d95fc3b11d7e39b29dc7206ef38274200f745912aae332d496e7"
+metafile = true
+
+[[files]]
+file = "mods/simplycataclysm.pw.toml"
+hash = "fa8f8d1cc922289ae6524bfdd8465264b5ed98bb998cd9aefeeeb7ad1e013864"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "bdb446f03761f760737b82f9f39f73cee8d5b744efa59f2d9fff7281dbacecdb"
 metafile = true
@@ -1071,6 +1081,11 @@ metafile = true
 [[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "60b26d8a45735194cff94abb074ee218012f3592017b565d7dc3a40889c6708d"
+metafile = true
+
+[[files]]
+file = "mods/tiered.pw.toml"
+hash = "badb95181eae5656ee3107177bd309e7ec1119eb0aec3853ece945df019e3de8"
 metafile = true
 
 [[files]]
