@@ -1119,11 +1119,6 @@ hash = "0f4c36a62455f7a78f36b8768f2fd980e558d9a18552c6ee00e9d090b51de341"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-world-map-synchronized.pw.toml"
-hash = "bb437026f45d54d77d26175ab35c2156af812893129cd553248a9cf9cdf868e3"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ceef63cdf36c1e23cc00a78aa9b81a13a34fc02cea9ccdf2ec35d0558cff72e5"
 metafile = true
