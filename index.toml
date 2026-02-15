@@ -1114,6 +1114,21 @@ hash = "50dfd8547f93d1bc8f31e1740f94e24aadf661cb2948587ac16a41404b10effd"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0f4c36a62455f7a78f36b8768f2fd980e558d9a18552c6ee00e9d090b51de341"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map-synchronized.pw.toml"
+hash = "bb437026f45d54d77d26175ab35c2156af812893129cd553248a9cf9cdf868e3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ceef63cdf36c1e23cc00a78aa9b81a13a34fc02cea9ccdf2ec35d0558cff72e5"
+metafile = true
+
+[[files]]
 file = "mods/xenon.pw.toml"
 hash = "b91513c490e4a51622c7380aa84a08bc2cf8e45d714711910b653515db03cbae"
 metafile = true

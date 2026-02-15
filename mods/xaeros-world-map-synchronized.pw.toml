@@ -1,0 +1,13 @@
+name = "Xaero's World Map: Synchronized"
+filename = "xaeromapsync-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1d841aRz/versions/iNlTpjQ0/xaeromapsync-0.0.1.jar"
+hash-format = "sha512"
+hash = "92c4ba471f850678fd07fe7e46d64a9269e8fe77293be92863a92bd4003150f10c6562132475b068b5c8c5700280059277b481c7533f69e33d2acb36c80a0593"
+
+[update]
+[update.modrinth]
+mod-id = "1d841aRz"
+version = "iNlTpjQ0"
