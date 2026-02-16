@@ -694,13 +694,18 @@ hash = "f27119e6d95e46b4943ec7af13ff5a68f8344c6f0344e86a22fe686512c754f7"
 metafile = true
 
 [[files]]
+file = "mods/integrated-simply-swords.pw.toml"
+hash = "19db0fe8230f9b10f61fc44e82d4ed0a4061c0e3aefeacf49b07c96b145a2225"
+metafile = true
+
+[[files]]
 file = "mods/integrated-stronghold.pw.toml"
-hash = "6a3e8217b2009309ea78ab26a1cbaf6ce53e154846efab841c61467426d27562"
+hash = "1755530acc84b0e9152cbf68da07fc239b78ac5357e552d1fbb99483bcb6c24e"
 metafile = true
 
 [[files]]
 file = "mods/integrated-villages.pw.toml"
-hash = "4c370e8ae8dcd19e0cb8f59c88d054c1d7f9cb3591cbf00a7970505bc9e09480"
+hash = "4c1f7c645f751d9f62b958966f017cdd0f0011031ad5af246aa2ec9ba9b268d5"
 metafile = true
 
 [[files]]
@@ -761,6 +766,16 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-integrated-dungeons-villages.pw.toml"
+hash = "9339467dcb018391db881c6dba050b7b368785fcc9322a06972b0e724d4dfd4f"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "41a036a86db9c0cab20b9b8956b0749bdfea13942d6ca00668304e5d0731166f"
 metafile = true
 
 [[files]]
@@ -1136,6 +1151,11 @@ metafile = true
 [[files]]
 file = "mods/yet-another-furniture.pw.toml"
 hash = "712faed276c29504049444d26034665f76630b36b9c8986f525cc166661294cb"
+metafile = true
+
+[[files]]
+file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
+hash = "64d3781b6b402f394c54592cda703fc1e551530ad0131b8b6e480cb91434bd6d"
 metafile = true
 
 [[files]]
