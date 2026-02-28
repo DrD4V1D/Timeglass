@@ -1,0 +1,13 @@
+name = "Dungeon Now Loading"
+filename = "Dungeon Now Loading-forge-1.20.1-2.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vZoqTqwv/versions/MoLb6Oqn/Dungeon%20Now%20Loading-forge-1.20.1-2.11.jar"
+hash-format = "sha512"
+hash = "3ffda76a6faa490f0660bab3f360db2a04600f4cfe84028d47110391c86bb6a9e7f68b8f77c0821774239249b25d82ce32cf2543ace7f57d81dd89d6362a0ca0"
+
+[update]
+[update.modrinth]
+mod-id = "vZoqTqwv"
+version = "MoLb6Oqn"
